@@ -24,15 +24,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/subho193/subho193/blob/main/Skills%20LOGO/mysql-logo-removebg-preview.jpg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://images.saasworthy.com/microsoftpowerbidesktop_11508_logo_1667376730_vyfzp.png" alt="Power BI" width="40" height="40"> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" alt="Excel" width="40" height="40"></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout-thumbnail.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="python" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" width="40" height="40"></a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://storage.googleapis.com/kotakode-prod-public/images/47dbb639-ab0b-4364-9d5f-e92b91ef88a1-matplotlib.jpg" alt="Matplotlib" width="40" height="40"></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="seaborn" width="40" height="40"/> </a>c
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/subho193/subho193/blob/main/Skills%20LOGO/seaborn.PNG" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit_learn" width="40" height="40"/> </a>
  </p>
 
