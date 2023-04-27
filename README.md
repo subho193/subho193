@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Tata Consultancy Services**
 
-- 👨‍💻 All of my projects are available at [https://subho193.github.io/SubhajitTheAnalyst.github.io/](https://subho193.github.io/SubhajitTheAnalyst.github.io/)
+- 👨‍💻 All of my projects are available at [https://subhajitdanalyst96.carrd.co/](https://subhajitdanalyst96.carrd.co/)
 
 - 💬 Ask me about **Data Analysis, SQL, Power BI, Excel, Machine Learning, Python**
 
